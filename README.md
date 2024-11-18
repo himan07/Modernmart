@@ -46,7 +46,7 @@ Since the app is not yet deployed. To test and run it, follow the steps.
 6. Now, in the terminal, navigate to /src/backend and repeat step 5.
 7. Verify by triggering the URL "http://localhost:3000" in your favorite browser, you will be able to see the application (refer to the screenshot) in the browser.
 
-![Login Screen](Screenshot 2024-11-19 at 12.32.25 AM.png)
+![Login Screen](./Screenshot%202024-11-19%20at%2012.32.25 AM.png?raw=true "Optional Title"))
 
 ### Project Structure 
 
