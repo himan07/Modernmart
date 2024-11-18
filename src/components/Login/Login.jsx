@@ -194,7 +194,7 @@ class Login extends Component {
                   <Fragment>
                     <Grid item xs={12}>
                       <Typography variant="h4" className={classes.textWhite}>
-                        Login to BuyNSell
+                        Login to ModernMart
                       </Typography>
                     </Grid>
                     <br />
